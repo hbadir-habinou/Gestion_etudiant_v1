@@ -1,0 +1,22 @@
+Erreur : There is no active transaction
+Erreur : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicata du champ '0' pour la clef 'note_b1.PRIMARY'
+Erreur : There is no active transaction
+Erreur : SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicata du champ '0' pour la clef 'note_b1.PRIMARY'
+Erreur : There is no active transaction
+Erreur : There is no active transaction
+Erreur : There is no active transaction
+Erreur : There is no active transaction
+Erreur : There is no active transaction
+Erreur : There is no active transaction
+Erreur : There is no active transaction
+Erreur : There is no active transaction
+Erreur : There is no active transaction
+Erreur : There is no active transaction
+Erreur : There is no active transaction
+Erreur : There is no active transaction
+Erreur : There is no active transaction
+Erreur : There is no active transaction
+Erreur : There is no active transaction
+Erreur : There is no active transaction
+Erreur : There is no active transaction
+Erreur : There is no active transaction

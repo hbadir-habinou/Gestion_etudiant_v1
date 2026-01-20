@@ -1,0 +1,8 @@
+"id";"matricule_enseignant";"nom_prenom";"nom_matiere";"login_enseignant";"password_enseignant"
+23;"ENSkeyce0001";"                        Shota Aizawa         ";"STRUCTURES DE DONNÈES ET ALGORITHMES";"B2ENS001";"keyce"
+22;"ENSkeyce0002";"                        All Might            ";"PROGRAMMATION ORIENTÈE OBJET";"B3ENS004";"keyce"
+21;"ENSkeyce0001";"                        Shota Aizawa         ";"…THIQUE ET IA RESPONSABLE";"B3ENS003";"keyce"
+20;"ENSkeyce0002";"                        All Might            ";"DÈTECTION DíANOMALIES ET SÈCURITÈ NATIONALE";"B3ENS002";"keyce"
+19;"ENSkeyce0003";"                        Kuro Sensei          ";"ANALYSE ET VISUALISATION DE DONNÈES";"B3ENS001";"keyce"
+17;"ENSkeyce0003";"                        Kuro Sensei          ";"SQL";"B1ENS001";"keyce"
+18;"ENSkeyce0002";"                        All Might            ";"PYTHON";"B1ENS002";"keyce"
